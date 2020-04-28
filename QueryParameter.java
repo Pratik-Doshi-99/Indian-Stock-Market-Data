@@ -203,8 +203,4 @@ public class QueryParameter {
         
     }
     
-    public static void test(){
-        String s = "ABCD" + (6+1);
-        System.out.println(s);
-    }
 }
