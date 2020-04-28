@@ -32,4 +32,8 @@ public class Date {
     public int getYear(){
         return YEAR;
     }
+    @Override
+    public String toString(){
+        return this.getDay() + "-" + this.getMonth() + "-" + this.getYear();
+    }
 }
