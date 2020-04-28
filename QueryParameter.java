@@ -199,8 +199,6 @@ public class QueryParameter {
             System.out.println(ex.getMessage());
         }
         
-        test();
-        
     }
     
 }
